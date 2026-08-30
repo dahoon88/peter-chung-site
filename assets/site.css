@@ -207,7 +207,6 @@ a.row:hover .row__go { opacity: 1; transform: translateX(3px); }
 .plate img { width: 100%; height: auto; display: block; background: #eeeae0; }
 .img--small { width: 50%; }
 
-
 .plate--featured { grid-column: 1 / -1; width: 100%; margin: 0 auto; }
 
 .plate--slot {
