@@ -207,7 +207,7 @@ a.row:hover .row__go { opacity: 1; transform: translateX(3px); }
 .plate img { width: 100%; height: auto; display: block; background: #eeeae0; }
 
 
-.plate--featured { column-span: all; width: 80%; margin: 0 auto; }
+.plate--featured { column-span: all; width: 100%; margin: 0 auto; }
 
 .plate--slot {
   border: 1px dashed var(--rule-strong); background: #eeeae0;
